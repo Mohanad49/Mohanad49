@@ -7,7 +7,7 @@ multi-module enterprise Super App
 🎓 CS & Engineering @ German University in Cairo (2026)  
 🔧 Specializing in test automation: web (Selenium, Playwright), mobile (Maestro),
 API & backend validation  
-📬 mohanned.3262@gmail.com | [LinkedIn](https://linkedin.com/in/mohanad49) |
+[LinkedIn](https://linkedin.com/in/mohanad49) |
 [Portfolio](https://myehia.vercel.app)
 
 ---
@@ -47,4 +47,6 @@ API & backend validation
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mohanad49&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Mohanad49&theme=tokyonight" />
+</p>
