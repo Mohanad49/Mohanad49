@@ -48,5 +48,5 @@ API & backend validation
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mohanad49&theme=tokyonight" />
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
 </p>
