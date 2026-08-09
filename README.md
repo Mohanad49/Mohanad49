@@ -21,9 +21,23 @@ of it: **2,500+ test cases, 500+ defects, and 85% of the regression suite now ru
 one command in CI**, across Playwright (web), Maestro (mobile) and pytest (API).
 
 The repositories below are the same discipline applied in public. Every one of them runs
-on a schedule, and the badges are live — including one that is red on purpose.
+on a schedule, and the badges are live — including one that is red on purpose, and one
+repo that has no badge at all because a real product gate in it is failing.
 
 ## Featured work
+
+### 🎯 A full QA engagement
+
+**[caldiy-qa-strategy](https://github.com/Mohanad49/caldiy-qa-strategy)** — six phases
+against a real scheduling platform: risk-led strategy, a Dockerised pinned instance,
+API contract tests, Playwright lifecycle coverage, a 14-test timezone/DST suite, BDD,
+axe and visual gates, k6 performance gates with a capacity-one contention proof, tiered
+CI, and two defect reports filed upstream.
+
+The result I'd want read first is the one that isn't green: **accessibility passes 1 of 3
+surfaces**, and that stays visible. It's a finding about the product, not a flaky test to
+retry away — which is also why there is no CI badge on that repo while a real product gate
+is failing. **[Allure report →](https://mohanad49.github.io/caldiy-qa-strategy/)**
 
 ### 🛠 Tools I built
 
