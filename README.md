@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Software QA Engineer</b> · Test automation across web, mobile and API<br>
-  Cairo, Egypt · UTC+2
+  ISTQB Certified Tester, Foundation Level · Cairo, Egypt · UTC+2
 </p>
 
 <p align="center">
@@ -19,6 +19,15 @@ admin portal covering payments, bookings, subscriptions and access control. I jo
 doing manual testing on a production launch, then built the automation that replaced most
 of it: **2,500+ test cases, 500+ defects, and 85% of the regression suite now running on
 one command in CI**, across Playwright (web), Maestro (mobile) and pytest (API).
+
+For two months in 2026 I also interned in software testing at **Atos**, on a national
+data-protection regulatory platform built under Egypt's Personal Data Protection Law.
+I wrote **90+ test cases across 25 user stories** for its Petition and Regularization
+services, took them through senior review into Azure DevOps, and built a Bruno collection
+against the Submit Inquiry endpoint. The collection is where the useful part happened: an
+over-length description came back as an unhandled **500 leaking the internal CRM entity
+and attribute names** instead of the specified 400, and two error codes were mapped to the
+wrong entity type. Three defects a UI pass would not have found.
 
 The repositories below are the same discipline applied in public. Every one of them runs
 on a schedule, and the badges are live — including one that is red on purpose, and one
@@ -55,23 +64,25 @@ is failing. **[Allure report →](https://mohanad49.github.io/caldiy-qa-strategy
 | **[github-api-tests](https://github.com/Mohanad49/github-api-tests)** [![CI](https://github.com/Mohanad49/github-api-tests/actions/workflows/api-tests.yml/badge.svg)](https://github.com/Mohanad49/github-api-tests/actions/workflows/api-tests.yml) | REST coverage with JSON Schema validation, negative cases, and a client that paces itself against GitHub's secondary rate limits | Python · requests · pytest |
 | **[api-testing-framework-ci](https://github.com/Mohanad49/api-testing-framework-ci)** [![CI](https://github.com/Mohanad49/api-testing-framework-ci/actions/workflows/api-evidence.yml/badge.svg)](https://github.com/Mohanad49/api-testing-framework-ci/actions/workflows/api-evidence.yml) | Full CRUD lifecycle with auth, data-driven payloads and a published evidence hub | Postman · Newman |
 | **[wikipedia-maestro](https://github.com/Mohanad49/wikipedia-maestro)** | Mobile flows on a real Android app, on an emulator, in CI | Maestro · Android |
+| **[ebay-web-automation](https://github.com/Mohanad49/ebay-web-automation)** | Search and refinement flows with externalised test data — the same Page Object discipline in a JVM stack | Java · Selenium |
 | **[jmeter_performance_testing_report](https://github.com/Mohanad49/jmeter_performance_testing_report)** | Load testing a prediction API and reporting latency against explicit acceptance criteria | JMeter · Python |
 
 ## What I work with
 
 |  |  |
 |---|---|
-| **Automation** | Playwright · Selenium · pytest · Maestro · Appium · Postman/Newman |
-| **API & performance** | REST · JSON Schema · JMeter · Allure |
+| **Automation** | Playwright · Selenium · pytest · Maestro · Appium · Cucumber (BDD/Gherkin) |
+| **API & performance** | REST · JSON Schema · Postman/Newman · Bruno · k6 · JMeter · Allure |
 | **Languages** | Python · TypeScript · JavaScript · Java · SQL |
-| **Infrastructure** | GitHub Actions · Docker · PostgreSQL · FastAPI |
+| **Infrastructure** | GitHub Actions · Azure DevOps · Docker · PostgreSQL · FastAPI |
 | **Practice** | Test strategy · risk-based prioritisation · defect reporting · flake triage · CI/CD |
 
 ## Background
 
-B.Sc. Computer Science & Engineering, **German University in Cairo** (2026). Graduation
-project: car price prediction over a 3M-record dataset, best R² 0.947. Junior TA for
-CSEN202 across 100+ students.
+**ISTQB Certified Tester, Foundation Level (CTFL)**, 2026. B.Sc. Computer Science &
+Engineering, **German University in Cairo** (2026). Graduation project: car price
+prediction over a 3M-record dataset, best R² 0.947. Junior TA for CSEN202 across
+100+ students.
 
 Arabic (native) · English (C1) · German (A2)
 
