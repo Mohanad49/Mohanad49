@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Software QA Engineer</b> · Test automation across web, mobile and API<br>
-  ISTQB Certified Tester, Foundation Level · Cairo, Egypt · UTC+2
+  ISTQB Certified Tester, Foundation Level (CTFL 4.0) · Cairo, Egypt · UTC+2
 </p>
 
 <p align="center">
@@ -79,7 +79,7 @@ is failing. **[Allure report →](https://mohanad49.github.io/caldiy-qa-strategy
 
 ## Background
 
-**ISTQB Certified Tester, Foundation Level (CTFL)**, 2026. B.Sc. Computer Science &
+**ISTQB Certified Tester, Foundation Level (CTFL 4.0)**, 2026. B.Sc. Computer Science &
 Engineering, **German University in Cairo** (2026). Graduation project: car price
 prediction over a 3M-record dataset, best R² 0.947. Junior TA for CSEN202 across
 100+ students.
