@@ -14,20 +14,11 @@
 
 ---
 
-I test a multi-tenant club-management platform at **Blue Ribbon**: a Flutter app and an
-admin portal covering payments, bookings, subscriptions and access control. I joined
-doing manual testing on a production launch, then built the automation that replaced most
-of it: **2,500+ test cases, 500+ defects, and 85% of the regression suite now running on
-one command in CI**, across Playwright (web), Maestro (mobile) and pytest (API).
-
-For two months in 2026 I also interned in software testing at **Atos**, on a national
-data-protection regulatory platform built under Egypt's Personal Data Protection Law.
-I wrote **90+ test cases across 25 user stories** for its Petition and Regularization
-services, took them through senior review into Azure DevOps, and built a Bruno collection
-against the Submit Inquiry endpoint. The collection is where the useful part happened: an
-over-length description came back as an unhandled **500 leaking the internal CRM entity
-and attribute names** instead of the specified 400, and two error codes were mapped to the
-wrong entity type. Three defects a UI pass would not have found.
+I'm a QA engineer. By day I own quality on a live, payment-integrated platform at
+**Blue Ribbon**, where I took the team from testing everything by hand to **85% of the
+regression suite running on one command in CI**. Over the summer of 2026 I tested Egypt's
+national data-protection regulator platform (MCIT PDPC) at **Atos**, mostly at the API
+layer, where the useful bugs were the ones the interface could not show me.
 
 The repositories below are the same discipline applied in public. Every one of them runs
 on a schedule, and the badges are live, including one that is red on purpose and one
