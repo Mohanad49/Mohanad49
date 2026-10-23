@@ -15,8 +15,9 @@
 ---
 
 I'm a QA engineer. By day I own quality on a live, payment-integrated platform at
-**Blue Ribbon**, where I took the team from testing everything by hand to **85% of the
-regression suite running on one command in CI**. Over the summer of 2026 I tested Egypt's
+**Blue Ribbon**, where I authored **5,000+ test cases**, drove **600+ defects to
+resolution**, and took the team from testing everything by hand to **85% of the
+admin-portal regression suite running on one command in CI**. Over the summer of 2026 I tested Egypt's
 national data-protection regulator platform (MCIT PDPC) at **Atos**, mostly at the API
 layer, where the useful bugs were the ones the interface could not show me.
 
@@ -55,7 +56,6 @@ is failing. **[Allure report →](https://mohanad49.github.io/caldiy-qa-strategy
 | **[github-api-tests](https://github.com/Mohanad49/github-api-tests)** [![CI](https://github.com/Mohanad49/github-api-tests/actions/workflows/api-tests.yml/badge.svg)](https://github.com/Mohanad49/github-api-tests/actions/workflows/api-tests.yml) | REST coverage with JSON Schema validation, negative cases, and a client that paces itself against GitHub's secondary rate limits | Python · requests · pytest |
 | **[api-testing-framework-ci](https://github.com/Mohanad49/api-testing-framework-ci)** [![CI](https://github.com/Mohanad49/api-testing-framework-ci/actions/workflows/api-evidence.yml/badge.svg)](https://github.com/Mohanad49/api-testing-framework-ci/actions/workflows/api-evidence.yml) | Full CRUD lifecycle with auth, data-driven payloads and a published evidence hub | Postman · Newman |
 | **[wikipedia-maestro](https://github.com/Mohanad49/wikipedia-maestro)** | Mobile flows on a real Android app, on an emulator, in CI | Maestro · Android |
-| **[ebay-web-automation](https://github.com/Mohanad49/ebay-web-automation)** | Search and refinement flows with externalised test data: the same Page Object discipline in a JVM stack | Java · Selenium |
 | **[jmeter_performance_testing_report](https://github.com/Mohanad49/jmeter_performance_testing_report)** | Load testing a prediction API and reporting latency against explicit acceptance criteria | JMeter · Python |
 
 ## What I work with
