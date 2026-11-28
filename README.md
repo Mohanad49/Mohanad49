@@ -58,6 +58,17 @@ is failing. **[Allure report →](https://mohanad49.github.io/caldiy-qa-strategy
 | **[wikipedia-maestro](https://github.com/Mohanad49/wikipedia-maestro)** | Mobile flows on a real Android app, on an emulator, in CI | Maestro · Android |
 | **[jmeter_performance_testing_report](https://github.com/Mohanad49/jmeter_performance_testing_report)** | Load testing a prediction API and reporting latency against explicit acceptance criteria | JMeter · Python |
 
+## Open source contributions
+
+I fix bugs in open-source testing tools. Merged so far:
+
+| Project | Pull request | Merged |
+|---|---|---|
+| TestNG | [#3622](https://github.com/testng-team/testng/pull/3622): `testng.test.classpath` entries such as `./out`, a symlink or a `.jar` path made package scans find no tests. Fixes [#573](https://github.com/testng-team/testng/issues/573), open since 2014 | Nov 2026 |
+| TestNG docs | [#89](https://github.com/testng-team/testng-team.github.io/pull/89): what `testng.test.classpath` does | Nov 2026 |
+| TestNG | [#3605](https://github.com/testng-team/testng/pull/3605): the parallel data-provider test checks all 2,000 results | Nov 2026 |
+| Maestro | [#3577](https://github.com/mobile-dev-inc/Maestro/pull/3577): a dead link in the docs | Sep 2026 |
+
 ## What I work with
 
 |  |  |
